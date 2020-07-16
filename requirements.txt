@@ -1,3 +1,2 @@
 psutil
-cython
-wxpython
+wxPython
