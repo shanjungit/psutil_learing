@@ -11,3 +11,5 @@ def monitor_cpu(self):
 # TODO: 进程监控情况
 
 # TODO: 网络监控情况
+
+# TODO: 加入AOP,发送信息到企业微信上
